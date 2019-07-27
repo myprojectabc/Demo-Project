@@ -1,12 +1,12 @@
-# Element Custom <h2>
-1. Chức năng
+## Element Custom <h2>
+####1. Chức năng <h4>
 	* Tùy chỉnh các Element của trang theo ý muốn của người dùng.
 	* Lưu trữ các Element và Url.
 	* Có Option riêng để thiết lập giao diện, quản lý các Url và Element.
-2. Các thư viện được sử dụng
+####2. Các thư viện được sử dụng<h4>
 	* Bootstrap css v4.3.1
 	* Jquery script v.3.4.1
-3. Cách cài đặt
+####3. Cách cài đặt<h4>
 ##### Cho phép tiện ích đọc và thay đổi dữ liệu trang web<h5>
 	* Một số tiện ích cần có quyền đọc và thay đổi dữ liệu trang web. Bạn có thể thay đổi quyền của tiện ích bất cứ lúc nào.
 	* Trên máy tính, hãy mở Chrome Chrome.
@@ -30,7 +30,7 @@
 	* Ở trên cùng bên phải, hãy nhấp vào biểu tượng Thêm Khác sau đó Công cụ khác sau đó Tiện ích.
 	* Trên tiện ích bạn muốn xóa, hãy nhấp vào Xóa.
 	* Xác nhận bằng cách nhấp vào Xóa.
-4. Kiểm thử
+####4. Kiểm thử <h4>
 	* Test và sửa tất cả các lỗi.
 	* Nếu sử dụng chức năng tự động xóa button xóa sẽ ẩn.
 	
