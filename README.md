@@ -1,4 +1,4 @@
-# Element Custom <h2> ![GitHub Logo](/public/image/icon.png)
+# Element Custom ![GitHub Logo](/public/image/icon.png) <h2>
 1. Chức năng
 	* Tùy chỉnh các Element của trang theo ý muốn của người dùng.
 	* Lưu trữ các Element và Url.
