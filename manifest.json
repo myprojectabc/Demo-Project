@@ -3,9 +3,9 @@
     "name": "Element Custom",
     "description": "Element Custom",
     "version": "1.0",
-    "permissions": ["storage"],
+    "permissions": ["storage", "tabs"],
     "options_ui": {
-    "page": "option/option.html",
+    "page": "option/options.html",
     "open_in_tab": true
     },
     "content_scripts": [{

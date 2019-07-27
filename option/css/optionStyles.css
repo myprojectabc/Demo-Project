@@ -1,8 +1,11 @@
-#border-color,#color,#text-color{
-	background: #EEC;
+input[type=button]:hover{
+  background: red;
 }
 .loader {
-  margin: 0 auto;
+  margin:auto;
+  position:fixed;
+  top:0; left:0; right:0; bottom:0;
+  top: 30%;
   border: 16px solid #f3f3f3; /* Light grey */
   border-top: 16px solid #3498db; /* Blue */
   border-radius: 50%;
