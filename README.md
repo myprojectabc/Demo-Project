@@ -1,4 +1,4 @@
-# Element Custom <h2>
+# Element Custom <h2> {.tabset .tabset-fade .tabset-pills}
 ## Chức năng
 	* Tùy chỉnh các Element của trang theo ý muốn của người dùng.
 	* Lưu trữ các Element và Url.
