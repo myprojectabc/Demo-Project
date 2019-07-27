@@ -1,4 +1,4 @@
-# Element Custom <h2>
+# Element Custom <h1>
 1. Chức năng
 	* Tùy chỉnh các Element của trang theo ý muốn của người dùng.
 	* Lưu trữ các Element và Url.
@@ -33,8 +33,9 @@
 	- Cho phép truy cập trang web: Trên tiện ích, hãy nhấp vào Chi tiết. Bên cạnh mục "Cho phép tiện ích này đọc và thay đổi tất cả dữ liệu trên các trang web bạn truy cập", hãy thay đổi quyền truy cập trang web của tiện ích thành Khi nhấp chuột, Trên các trang web cụ thể hoặc Trên tất cả các trang web.
 ##### Quản lý tiện ích<h5>
 
-1. Kiểm thử
+4. Kiểm thử
 	* Test và sửa tất cả các lỗi.
 	* Nếu sử dụng chức năng tự động xóa button xóa sẽ ẩn.
-	* 
+	* Test hiệu suất hoạt động.
+	* Test 
 	
