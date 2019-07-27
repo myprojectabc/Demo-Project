@@ -7,7 +7,7 @@
 	* Bootstrap css v4.3.1
 	* Jquery script v.3.4.1
 3. Cách cài đặt
-##### Cho phép tiện ích đọc và thay đổi dữ liệu trang web<h5>
+##### 		-Cho phép tiện ích đọc và thay đổi dữ liệu trang web<h5>
 	- Một số tiện ích cần có quyền đọc và thay đổi dữ liệu trang web. Bạn có thể thay đổi quyền của tiện ích bất cứ lúc nào.
 	- Trên máy tính, hãy mở Chrome Chrome.
 	- Trên thanh công cụ, hãy nhấp chuột phải vào một tiện ích.
@@ -15,7 +15,7 @@
 	- Khi bạn nhấp vào tiện ích: Chỉ bật tiện ích khi bạn nhấp vào tiện ích đó. Quyền này chỉ cho phép tiện ích truy cập vào trang web hiện tại trong tab hoặc cửa sổ đang mở. Nếu đóng tab hoặc cửa sổ này, bạn sẽ phải nhấp vào tiện ích để bật lại.
 	- Trên [trang web hiện tại]: Cho phép tiện ích tự động đọc và thay đổi dữ liệu trên trang web hiện tại.
 	- Trên tất cả các trang web: Cho phép tiện ích tự động đọc và thay đổi dữ liệu trên tất cả các trang web.
-##### Thêm hoặc xóa quyền truy cập vào một trang web cụ thể<h5>
+##### 	Thêm hoặc xóa quyền truy cập vào một trang web cụ thể<h5>
 	- Trên máy tính, hãy mở Chrome Chrome.
 	- Ở trên cùng bên phải, hãy nhấp vào biểu tượng Thêm  Khác sau đó  Công cụ khác  sau đó Tiện ích.
 	- Trên tiện ích, hãy nhấp vào Chi tiết.
