@@ -1,12 +1,12 @@
 # Element Custom ![GitHub Logo](/public/image/icon.png) <h2>
-1. Chức năng
+1. Chức năng:
 	* Tùy chỉnh các Element của trang theo ý muốn của người dùng.
 	* Lưu trữ các Element và Url.
 	* Có Option riêng để thiết lập giao diện, quản lý các Url và Element.
-2. Các thư viện được sử dụng
+2. Các thư viện được sử dụng:
 	* Bootstrap css v4.3.1
 	* Jquery script v.3.4.1
-3. Cách cài đặt
+3. Cách cài đặt:
 ##### Cho phép tiện ích đọc và thay đổi dữ liệu trang web<h5>
 	- Một số tiện ích cần có quyền đọc và thay đổi dữ liệu trang web. Bạn có thể thay đổi quyền của tiện ích bất cứ lúc nào.
 	- Trên máy tính, hãy mở Chrome Chrome.
@@ -31,9 +31,7 @@
 	- Cho phép ẩn danh: Trên tiện ích, hãy nhấp vào Chi tiết. Sau đó, bật Cho phép ở chế độ ẩn danh.
 	- Sửa tiện ích bị hỏng: Tìm tiện ích bị hỏng rồi nhấp vào Sửa. Sau đó, xác nhận bằng cách nhấp vào Sửa tiện ích.
 	- Cho phép truy cập trang web: Trên tiện ích, hãy nhấp vào Chi tiết. Bên cạnh mục "Cho phép tiện ích này đọc và thay đổi tất cả dữ liệu trên các trang web bạn truy cập", hãy thay đổi quyền truy cập trang web của tiện ích thành Khi nhấp chuột, Trên các trang web cụ thể hoặc Trên tất cả các trang web.
-##### Quản lý tiện ích<h5>
-
-4. Có gì mới
+4. Có gì mới:
 	* Sửa tất cả các lỗi.
 	* Nâng cao hiệu suất hoạt động.
 	* Ít tiêu tốn tài nguyên phần cứng.
