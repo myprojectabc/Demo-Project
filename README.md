@@ -1,6 +1,9 @@
 # Element Custom <h2>
-1. Chức năng
+## Chức năng
 	* Tùy chỉnh các Element của trang theo ý muốn của người dùng.
 	* Lưu trữ các Element và Url.
 	* Có Option riêng để thiết lập giao diện, quản lý các Url và Element.
-2. Test de
+## Các thư viện được sử dụng
+	* Bootstrap css v4.3.1
+	* Jquery script v.3.4.1
+## Mô tả
