@@ -23,7 +23,14 @@
 	* Thêm: Ở bên phải mục "Trang web được phép", hãy nhấp vào Thêm.
 	* Nếu bạn không thấy tùy chọn này, hãy thay đổi mục "Cho phép tiện ích này đọc và thay đổi tất cả dữ liệu trên các trang web bạn truy cập" thành Trên các trang web cụ thể.
 	* Xóa: Ở bên phải của trang web, hãy nhấn vào biểu tượng Thêm Khác sau đóXóa.
-1. Kiểm thử
+##### Gỡ cài đặt tiện ích<h5>
+	* Ở bên phải thanh địa chỉ, hãy tìm biểu tượng của tiện ích. Sau đó, nhấp chuột phải vào biểu tượng rồi chọn Xóa khỏi Chrome.
+	* Nếu bạn không thấy biểu tượng của tiện ích, hãy làm như sau:
+	* Trên máy tính, hãy mở Chrome.
+	* Ở trên cùng bên phải, hãy nhấp vào biểu tượng Thêm Khác sau đó Công cụ khác sau đó Tiện ích.
+	* Trên tiện ích bạn muốn xóa, hãy nhấp vào Xóa.
+	* Xác nhận bằng cách nhấp vào Xóa.
+4. Kiểm thử
 	* Test và sửa tất cả các lỗi.
 	* Nếu sử dụng chức năng tự động xóa button xóa sẽ ẩn.
 	
