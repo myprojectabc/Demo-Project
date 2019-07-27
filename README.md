@@ -1,7 +1,5 @@
+![Atom](https://atom.io/assets/packages-d16d6cc46fd0cf01842409577e782b74.gif)
 # This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-Visit Website GitHub All Releases GitHub release
 
 Overview
 GridDB has a KVS (Key-Value Store)-type data model that is suitable for sensor data stored in a timeseries. It is a database that can be easily scaled-out according to the number of sensors.
